@@ -345,8 +345,9 @@ footer{
   position: absolute;
   left: 0;
   right: 0;
+  bottom: 0;
   background-color: rgb(223, 220, 220);
-  height: 70vh;
+  height: 60vh;
   color: black;
   font-size: 9px;
 }
